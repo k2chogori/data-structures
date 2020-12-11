@@ -1,0 +1,4 @@
+* HashMap in simple term dict {"key": "value"} wheere key is hashed (unique int value). Key/value can be anythng. (best)Insertion, retrive, delete is  O(1). HashMap is implementation of interface of Map
+* LinkedHashMap - is linkged HashMap (Like linkedList).  (best)Insertion, retrive, delete is  O(1).
+* ArrayList - List with not fixed size. Same as python list. O(1) to access by index. O(n) to access by value. Value - can be anything. Implements interface "Collection".
+* LinkedList - standarLinked list. Access by index, insertion, deletion - O(n) by value or index. ListIterator allows o(1) for insertion and deletion. 
